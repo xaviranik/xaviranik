@@ -2,6 +2,9 @@
 <h1 align="center">Hi 👋, I'm Zabir Anik</h1>
 <h3 align="center">I Make Stuff 🔨 💻</h3>
 
+![Profile views](https://gpvc.arturio.dev/xaviranik)
+<p align="left"> <a href="https://twitter.com/zabiranik" target="blank"><img src="https://img.shields.io/twitter/follow/zabiranik?logo=twitter&style=for-the-badge" alt="zabiranik" /></a> </p>
+
 - 🔭 I’m currently working on [weDevs](https://github.com/weDevsOfficial)
 
 - 👨‍💻 Get to know me [https://zabiranik.netlify.app/](https://zabiranik.netlify.app/)
@@ -20,6 +23,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaviranik&" alt="xaviranik" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xaviranik" alt="xaviranik" /></a> </p>
-
-![Profile views](https://gpvc.arturio.dev/xaviranik)
-<p align="left"> <a href="https://twitter.com/zabiranik" target="blank"><img src="https://img.shields.io/twitter/follow/zabiranik?logo=twitter&style=for-the-badge" alt="zabiranik" /></a> </p>
