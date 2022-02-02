@@ -12,3 +12,5 @@
 - 📫 Reach me at **zabiranik.me@gmail.com**
 
 - ⚡ Let's concentrate: **isset($thoughts['idea']) ? 'Implement' : 'Think';**
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaviranik" alt="xaviranik" /></p>
