@@ -4,7 +4,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/xaviranik)
 
-- 🔭 I’m currently working at [weDevs](https://github.com/weDevsOfficial)
+- 🔭 I’m currently working at [Awesome Motive, Inc](https://github.com/awesomemotive)
 
 - 👨‍💻 Get to know me [https://zabiranik.com/](https://zabiranik.com/)
 
